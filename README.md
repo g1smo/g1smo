@@ -1,4 +1,4 @@
-== I'm Using GitHub Under Protest ==
+# I'm Using GitHub Under Protest
 
 Some of my projects currently hosted on GitHub.  This is not ideal; GitHub is a
 proprietary, trade-secret system that is not Free and Open Souce Software
